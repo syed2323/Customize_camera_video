@@ -21,5 +21,11 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>i want to make vides</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>i want to record a video with voice</string>
+	<key>NSCameraPortraitEffectEnabled</key>
+	<true/>
 </dict>
 </plist>
